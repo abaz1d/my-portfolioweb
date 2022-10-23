@@ -1,0 +1,27 @@
+{
+    "404": "The page you are looking for could not be found.",
+    "back-home": "Back Home",
+
+    "nav-home": "Home",
+    "nav-about": "About",
+    "nav-resume": "Resume",
+    "nav-portfolio": "Portfolio",
+    "nav-service": "Service",
+    "nav-blog": "Blog",
+    "nav-contact": "Contact",
+
+    "hello": "Hello, I'm",
+    "iam": "A passionate Full-Stack Developer based in <br /> Semarang City, Indonesia",
+
+    "meta": "About Me",
+    "title": "I'm Abdul Aziz",
+    "description": "Hi, my name is Abdul Aziz. I am a highly motivated and hard-working individual. I filled my time with learning many things to increase my knowledge, such as reading books and taking coding bootcamp courses at <a href='https://rubicamp.com/' rel='noopener'> RUBICAMP.</a>",
+
+    "name": "Name",
+    "birthday": "Birthday",
+    "mail": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "nationality": "Nationality",
+    "download-cv": "Download CV"
+}

@@ -1,0 +1,27 @@
+{
+    "404": "Halaman yang Anda cari tidak ditemukan.",
+    "back-home": "Kembali Beranda",
+
+    "nav-home": "Beranda",
+    "nav-about": "Tentang",
+    "nav-resume": "Resume",
+    "nav-portfolio": "Portofolio",
+    "nav-services": "Layanan",
+    "nav-blog": "Blog",
+    "nav-contact": "Kontak",
+
+    "hello": "Halo, Saya",
+    "iam": "Pengembang <i>Full-Stack</i> yang bersemangat <br /> berbasis di Kota Semarang, Indonesia",
+
+    "meta": "Tentang Saya",
+    "title": "Saya Abdul Aziz",
+    "description": "Hai, nama saya Abdul Aziz. Saya adalah pribadi yang memiliki motivasi tinggi dan pekerja keras. Saya mengisi waktu saya dengan belajar banyak hal untuk menambah pengetahuan saya, seperti membaca buku dan mengikuti kursus bootcamp coding di <a href='https://rubicamp.com/'> RUBICAMP.</a>",
+
+    "name": "Nama",
+    "birthday": "Tanggal Lahir",
+    "mail": "Surel",
+    "phone": "Telepon",
+    "address": "Alamat",
+    "nationality": "Kebangsaan",
+    "download-cv": "Unduh CV"
+}
